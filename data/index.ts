@@ -226,16 +226,12 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    link: "https://github.com/anars-work",
+    link: "https://github.com/BYCODDE",
   },
+
   {
     id: 2,
-    img: "/twit.svg",
-    link: "https://x.com/shikuzeki",
-  },
-  {
-    id: 3,
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/anar-karanadze/",
+    link: "https://www.linkedin.com/in/anaraliev217/",
   },
 ];
