@@ -14,9 +14,7 @@ const Approach = () => {
         <Card
           title="Planning && Strategy"
           icon={<AceternityIcon order="Phase 1" />}
-          des="We'll collaborate to map out your website's goals, target audience, 
-          and key functionalities. We'll discuss things like site structure, 
-          navigation, and content requirements."
+          des="We’ll partner to outline your website’s goals, identify your target audience, and determine key features. We’ll cover aspects such as layout, navigation, and content needs."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -26,9 +24,7 @@ const Approach = () => {
         <Card
           title="Development && Progress Update"
           icon={<AceternityIcon order="Phase 2" />}
-          des="Once we agree on the plan, I cue my lofi playlist and dive into
-          coding. From initial sketches to polished code, I keep you updated
-          every step of the way"
+          des="After finalizing the plan, I put on my lofi playlist and start coding. From early drafts to refined code, I’ll keep you informed throughout the entire process."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -43,9 +39,7 @@ const Approach = () => {
         <Card
           title="Development && Launch"
           icon={<AceternityIcon order="Phase 3" />}
-          des="This is where the magic happens! Based on the approved design, 
-          I'll translate everything into functional code, building your website
-          from the ground up."
+          des="This is where the magic comes to life! Using the approved design, I’ll convert everything into functional code, constructing your website from the ground up."
         >
           <CanvasRevealEffect
             animationSpeed={3}
