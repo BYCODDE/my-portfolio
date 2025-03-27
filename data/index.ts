@@ -202,14 +202,14 @@ export const workExperience = [
   {
     id: 2,
     title: "Front End junior developer",
-    desc: "Designed and developed web applications and games with JavaScript",
+    desc: "Created and built web applications  using JavaScript.",
     className: "md:col-span-2",
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
     title: "Front End middle developer",
-    desc: "Working on Casino online games design, pixel perfect, developing game functionality",
+    desc: "Focused on designing and developing interactive web applications with a strong emphasis on pixel-perfect design and seamless functionality.",
     className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
