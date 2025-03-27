@@ -123,66 +123,36 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Anar was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Anar's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Anar is the ideal partner.",
-    name: "Nugo Bibilashvili",
+      "Working with Anar was an incredible experience. His expertise, efficiency, and commitment to delivering top-tier results were clear at every stage of our project. Anar’s passion for development shines through in all aspects of his work. If you’re looking to take your website and brand to the next level, Anar is the perfect collaborator.",
+    name: "Tornike Butiashvili",
     title: "Middle front end developer and linedevltd",
-    img: "/nugo-profile.svg",
+    img: "/toko-profile.svg",
   },
   {
     quote:
-      "Defanetly Reccomend to hire Anar, Amazing teaching skills, my favorite senior developer worked with. Proffesional in coding, meetings, relatioships, delivering. Be lucky and hire him",
-    name: "Beka Eloshvili",
-    title: "developer at digital institute | vake",
-    img: "/beqa-profile.svg",
+      "I highly recommend working with Anar. As a co-worker and mentor, he played a key role in my development. His exceptional teaching skills and professionalism in coding, meetings, and delivering results have been incredibly valuable. He’s a true asset to any team—lucky to have had the chance to learn and grow alongside him.",
+    name: "Gia Grigalashvili",
+    title: "Frontend Developer at LineDev",
+    img: "/gia-profile.svg",
   },
+
   {
     quote:
-      "Anar was our first developer when we opend and needed the gym, he delivered everything in just 2 week, delivered excelent work and make our gym to stand out. Defenetly recommend!",
-    name: "FreshLime",
-    title: "Gym comapny",
-    img: "/freshlime-profile.svg",
-  },
-  {
-    quote:
-      "Anar is in our company software inginare, He made our company front part special, without him we won't be same as we are and will be. Amazing softskills, delivery, He taught more then 100 students front end in our academy, it's only joy to work with him, Recomennded!",
+      "Anar is an invaluable software engineer at our company, making a significant impact on the front-end experience. His contributions have played a crucial role in our success. With his outstanding communication skills and consistent delivery, collaborating with him is always a smooth experience. Highly recommended!",
     name: "LineDevltd",
     title: "Full stack web development company",
     img: "/khazi-logo.svg",
   },
   {
     quote:
-      "Collaborating with Anar was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Anar's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Anar is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of ScandiFront Technologies",
-    img: "/profile.svg",
+      "Working with Anar was a fantastic experience. His professionalism, efficiency, and commitment to achieving outstanding results were clear throughout our collaboration. Anar's passion for every aspect of development is truly remarkable. If you’re looking to enhance your website and strengthen your brand, Anar is the perfect partner.",
+    name: "Beso Khutsishvili  ",
+    title: "Director of Krav Maga Georgian Federation",
+    img: "/beso_img.svg",
   },
 ];
 
 export const companies = [
-  {
-    id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
-  },
-  {
-    id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
-  },
-  {
-    id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
-  },
-  {
-    id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
-  },
   {
     id: 5,
     name: "docker.",
